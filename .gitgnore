@@ -1,0 +1,15 @@
+# Variáveis de ambiente
+.env
+.env.local
+.env.production
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
