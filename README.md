@@ -1,10 +1,6 @@
 # AI Recruiter API
 
-## Documentação interativa
-
-A API disponibiliza documentação automática com Swagger para explorar e testar todos os endpoints.
-
-![Documentação Swagger da AI Recruiter API](docs/swagger-api.png)
+## Problema resolvido
 
 [![Testes da API](https://github.com/RafaelCicarino/ai-recruiter-api/actions/workflows/test.yml/badge.svg)](https://github.com/RafaelCicarino/ai-recruiter-api/actions/workflows/test.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
