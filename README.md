@@ -1,7 +1,5 @@
 # AI Recruiter API
 
-## Problema resolvido
-
 [![Testes da API](https://github.com/RafaelCicarino/ai-recruiter-api/actions/workflows/test.yml/badge.svg)](https://github.com/RafaelCicarino/ai-recruiter-api/actions/workflows/test.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
@@ -11,6 +9,12 @@
 API REST para análise de currículos e comparação com vagas. O sistema recebe um currículo em PDF, extrai seu conteúdo, identifica tecnologias e gera indicadores como score ATS, compatibilidade, pontos fortes, pontos de melhoria e sugestões para o candidato.
 
 O projeto foi desenvolvido com foco em arquitetura organizada, validação de dados, persistência, testes automatizados e execução com Docker.
+
+## Documentação interativa
+
+A API disponibiliza documentação automática com Swagger para explorar e testar todos os endpoints.
+
+![Documentação Swagger da AI Recruiter API](docs/swagger-api.png)
 
 ## Problema resolvido
 
@@ -261,4 +265,3 @@ Desenvolvido por **Rafael Cicarino**.
 
 - [GitHub](https://github.com/RafaelCicarino)
 - [LinkedIn](https://www.linkedin.com/in/rafaelcicarino/)
-
